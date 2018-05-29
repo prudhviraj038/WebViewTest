@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98458184568",
+    "firebase_url": "https://maha-ghalayini-c35d7.firebaseio.com",
+    "project_id": "maha-ghalayini-c35d7",
+    "storage_bucket": "maha-ghalayini-c35d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98458184568:android:fe917d9e104aae73",
+        "android_client_info": {
+          "package_name": "in.yellowsoft.test.webviewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98458184568-18ud06c0f1mcedlfb2i0mtc23f22k4vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB645OYLHqxxS4nMQ1HtWELbkA6eFKxJQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
